@@ -32,6 +32,6 @@
 - [Spring Cloud教程](https://blog.didispace.com/spring-cloud-learning/)：全网最早最全的免费Spring Cloud基础教程
 - [知识星球](https://t.xiaomiquan.com/zfEiY3v)：聊聊技术人的斜杠生活
 
-**关注公众号，获得更多技术资讯**
+**关注公众号，获得更多技术资讯**wdwad
 
 <img src="http://blog.didispace.com/css/images/weixin.jpg" style="width:150px;height:150px;" />
